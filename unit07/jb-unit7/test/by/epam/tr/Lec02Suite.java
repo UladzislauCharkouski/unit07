@@ -10,3 +10,4 @@ import by.epam.tr.start.FunctionTest2;
 @RunWith(Suite.class)
 public class Lec02Suite {
 }
+// Спасибо за решения. Тесты зачтены.
